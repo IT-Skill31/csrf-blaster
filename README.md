@@ -18,6 +18,29 @@ CSRF-Blaster is a comprehensive toolkit designed to help security professionals 
 - Analyze websites for potential CSRF vulnerabilities
 - Create standalone HTML files for manual testing
 
+## Graphical User Interface
+
+A graphical user interface is available for CSRF-Blaster to make testing easier and more intuitive.
+
+![CSRF-Blaster GUI Screenshot](https://reviewsradar.shop/wp-content/uploads/2025/04/csrf-blaster-gui-screenshot.png)
+
+### Features of the GUI
+
+- User-friendly interface for configuring and running CSRF tests
+- Visual progress tracking and results dashboard
+- Form scanner for automatic detection of vulnerable forms
+- API endpoint testing with customizable parameters
+- One-click payload generation and export functionality
+- Comprehensive vulnerability reports with remediation guidance
+
+### Getting Started with CSRF-Blaster GUI
+
+The GUI is available as a separate repository:
+
+👉 **[CSRF-Blaster GUI](https://github.com/IT-Skill31/csrf-blaster-gui)** - Access the graphical interface
+
+For installation and usage instructions, please visit the GUI repository.
+
 ## Installation
 
 ```bash
